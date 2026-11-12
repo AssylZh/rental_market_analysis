@@ -21,9 +21,9 @@ Data: **real Zillow Research data** for the 100 largest U.S. metros, September 2
    **0 of 100** metros produce positive monthly cash flow. The best, Jackson, MS, loses **$332/month**; the median
    loses **$1,239**. Jackson would break even at a **4.08%** rate; only **3 metros** cash-flow positive even at 3%.
 
-![National trend](charts/1_national_trend.png)
-![Price-to-rent](charts/2_price_to_rent.png)
-![Regression](charts/3_rent_vs_home_growth.png)
+![National trend](1_national_trend.png)
+![Price-to-rent](2_price_to_rent.png)
+![Regression](3_rent_vs_home_growth.png)
 
 ## Files
 
